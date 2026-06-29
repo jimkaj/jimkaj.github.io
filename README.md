@@ -1,2 +1,2 @@
 # jimkaj.github.io
-Personal GitHub Page for James Kajdasz
+Personal GitHub Pages for James Kajdasz
